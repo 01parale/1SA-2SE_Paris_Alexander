@@ -255,6 +255,7 @@
             this.btn_fahren.TabIndex = 11;
             this.btn_fahren.Text = "button3";
             this.btn_fahren.UseVisualStyleBackColor = true;
+            this.btn_fahren.Click += new System.EventHandler(this.btn_fahren_Click);
             // 
             // label2
             // 
