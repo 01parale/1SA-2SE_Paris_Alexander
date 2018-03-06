@@ -1,0 +1,7 @@
+H:\Desktop\1SA_2SE_ParisAlexander\repositorytest\Paris_Alexander_AutTest\Paris_Alexander_AutTest\bin\Debug\Paris_Alexander_AutTest.exe
+H:\Desktop\1SA_2SE_ParisAlexander\repositorytest\Paris_Alexander_AutTest\Paris_Alexander_AutTest\bin\Debug\Paris_Alexander_AutTest.pdb
+H:\Desktop\1SA_2SE_ParisAlexander\repositorytest\Paris_Alexander_AutTest\Paris_Alexander_AutTest\obj\x86\Debug\Paris_Alexander_AutTest.Form1.resources
+H:\Desktop\1SA_2SE_ParisAlexander\repositorytest\Paris_Alexander_AutTest\Paris_Alexander_AutTest\obj\x86\Debug\Paris_Alexander_AutTest.Properties.Resources.resources
+H:\Desktop\1SA_2SE_ParisAlexander\repositorytest\Paris_Alexander_AutTest\Paris_Alexander_AutTest\obj\x86\Debug\Paris_Alexander_AutTest.csproj.GenerateResource.Cache
+H:\Desktop\1SA_2SE_ParisAlexander\repositorytest\Paris_Alexander_AutTest\Paris_Alexander_AutTest\obj\x86\Debug\Paris_Alexander_AutTest.exe
+H:\Desktop\1SA_2SE_ParisAlexander\repositorytest\Paris_Alexander_AutTest\Paris_Alexander_AutTest\obj\x86\Debug\Paris_Alexander_AutTest.pdb
